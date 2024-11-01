@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\bin\Debug\net8.0\web-app-repository.deps.json
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\bin\Debug\net8.0\web-app-repository.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\bin\Debug\net8.0\web-app-repository.pdb
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\bin\Debug\net8.0\web-app-domain.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\bin\Debug\net8.0\web-app-domain.pdb
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-.F8B340CA.Up2Date
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\refint\web-app-repository.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\web-app-repository.pdb
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\web-app-repository\obj\Debug\net8.0\ref\web-app-repository.dll

@@ -1,0 +1,17 @@
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\Consumidor.mensageria.exe
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\Consumidor.mensageria.deps.json
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\Consumidor.mensageria.runtimeconfig.json
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\Consumidor.mensageria.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\Consumidor.mensageria.pdb
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumid.FFA84A45.Up2Date
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\refint\Consumidor.mensageria.dll
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.pdb
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\Consumidor.mensageria.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\MicroservicesCache-main\Consumidor.mensageria\obj\Debug\net8.0\ref\Consumidor.mensageria.dll
